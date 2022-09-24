@@ -1,0 +1,22 @@
+div.box1{
+	background-color:rgb(113, 155, 116);
+	text-align:center;
+	padding:10px;
+	}
+div.box2{
+	background-color:rgb(70, 192, 192);
+	text-align:center;
+	padding:10px;
+	font-size: 20px;
+	}
+	
+		div.box3
+		{
+			background-color:rgb(158, 119, 61);
+			padding:20px;
+		}
+
+div.box3{
+	font-size:20px;
+	text-align: center;
+	}
